@@ -47,6 +47,9 @@ public void homePageNavigation(String Username, String Password, String text) th
 	 //System.out.println(text);
 	 log.info(text);
 	 lp1.clicLogin().click();
+	 System.out.println("GIT DEMO1");
+	 System.out.println("GIT DEMO2");
+
 	 
 }
 
