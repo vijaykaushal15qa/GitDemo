@@ -1,0 +1,8 @@
+23:40:24.008 [TestNG] INFO  TestFinalFramework.ValidateNavigationBar - Navigation Bar Displayed
+23:40:43.787 [TestNG] INFO  TestFinalFramework.HomePage - Non Restricted User
+23:41:44.263 [TestNG] INFO  TestFinalFramework.ValidateTitle - Driver is Initialized
+23:42:16.786 [TestNG] INFO  TestFinalFramework.ValidateNavigationBar - Navigation Bar Displayed
+23:42:18.327 [TestNG] INFO  TestFinalFramework.ValidateTitle - Navigated to Home Page
+23:42:18.747 [TestNG] INFO  TestFinalFramework.ValidateTitle - Title Validation Successful
+23:42:18.817 [TestNG] INFO  TestFinalFramework.ValidateTitle - Header Validation Successful
+23:42:31.635 [TestNG] INFO  TestFinalFramework.HomePage - Non Restricted User

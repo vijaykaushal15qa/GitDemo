@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests">
+
+<listeners>	
+<listener class-name="TestFinalFramework.listeners"/>
+<listener class-name="resources.ExtentReporterNG"/>
+</listeners>
+
+  <test name="Validating Login Functionality">
+    <classes>
+      <class name="TestFinalFramework.HomePage"/>
+      </classes>
+      </test>
+      
+  <test name="Validating Navigation Bar">
+    <classes>
+ <class name="TestFinalFramework.ValidateNavigationBar"/>
+      </classes>
+      </test>
+      
+      
+  <test name="ValidatingHeaderandTitle">
+    <classes>
+  <class name="TestFinalFramework.ValidateTitle"/>
+      </classes>
+      </test>
+      
+  </suite> <!-- Suite -->

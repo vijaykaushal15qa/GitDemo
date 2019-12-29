@@ -1,0 +1,24 @@
+14:20:56.696 [main] INFO  TestFinalFramework.ValidateTitle - Title Validation Successful
+16:06:40.188 [main] INFO  TestFinalFramework.ValidateTitle - Driver is Initialized
+16:06:44.557 [main] INFO  TestFinalFramework.ValidateTitle - Navigated to Home Page
+16:06:52.862 [main] INFO  TestFinalFramework.ValidateTitle - Title Validation Successful
+16:08:24.888 [main] INFO  TestFinalFramework.ValidateTitle - Driver is Initialized
+16:08:30.567 [main] INFO  TestFinalFramework.ValidateTitle - Navigated to Home Page
+16:08:38.682 [main] INFO  TestFinalFramework.ValidateTitle - Title Validation Successful
+16:12:34.815 [main] INFO  TestFinalFramework.ValidateTitle - Driver is Initialized
+16:12:39.198 [main] INFO  TestFinalFramework.ValidateTitle - Navigated to Home Page
+16:12:47.417 [main] INFO  TestFinalFramework.ValidateTitle - Title Validation Successful
+16:16:47.821 [main] INFO  TestFinalFramework.ValidateTitle - Driver is Initialized
+16:16:52.165 [main] INFO  TestFinalFramework.ValidateTitle - Navigated to Home Page
+16:17:00.021 [main] INFO  TestFinalFramework.ValidateTitle - Title Validation Successful
+16:18:27.097 [main] INFO  TestFinalFramework.ValidateTitle - Driver is Initialized
+16:18:31.491 [main] INFO  TestFinalFramework.ValidateTitle - Navigated to Home Page
+16:18:39.906 [main] INFO  TestFinalFramework.ValidateTitle - Title Validation Successful
+16:18:39.984 [main] INFO  TestFinalFramework.ValidateTitle - Header Validation Successful
+16:23:23.397 [main] INFO  TestFinalFramework.HomePage - Non Restricted User
+16:23:41.355 [main] INFO  TestFinalFramework.ValidateNavigationBar - Navigation Bar Displayed
+16:23:46.747 [main] INFO  TestFinalFramework.ValidateTitle - Driver is Initialized
+16:23:51.255 [main] INFO  TestFinalFramework.ValidateTitle - Navigated to Home Page
+16:23:58.803 [main] INFO  TestFinalFramework.ValidateTitle - Title Validation Successful
+16:23:58.878 [main] INFO  TestFinalFramework.ValidateTitle - Header Validation Successful
+16:44:20.846 [main] INFO  TestFinalFramework.HomePage - Non Restricted User

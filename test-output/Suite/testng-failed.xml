@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" parallel="tests">
+  <listeners>
+    <listener class-name="TestFinalFramework.listeners"/>
+    <listener class-name="resources.ExtentReporterNG"/>
+  </listeners>
+  <test name="Validating Login Functionality(failed)" parallel="tests">
+    <classes>
+      <class name="TestFinalFramework.ValidateNavigationBar">
+        <methods>
+          <include name="teardown"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- TestFinalFramework.ValidateNavigationBar -->
+      <class name="TestFinalFramework.ValidateTitle">
+        <methods>
+          <include name="initialize"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- TestFinalFramework.ValidateTitle -->
+      <class name="TestFinalFramework.HomePage">
+        <methods>
+          <include name="homePageNavigation" invocation-numbers="0"/>
+          <include name="initialize"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- TestFinalFramework.HomePage -->
+    </classes>
+  </test> <!-- Validating Login Functionality(failed) -->
+</suite> <!-- Failed suite [Suite] -->

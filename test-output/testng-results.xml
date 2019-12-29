@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="55893" started-at="2019-12-28T18:11:39Z" finished-at="2019-12-28T18:12:35Z">
+    <groups>
+    </groups>
+    <test name="Validating Navigation Bar" duration-ms="39740" started-at="2019-12-28T18:11:39Z" finished-at="2019-12-28T18:12:19Z">
+      <class name="TestFinalFramework.ValidateNavigationBar">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:TestFinalFramework.ValidateNavigationBar@233795b6]" name="initialize" is-config="true" duration-ms="36711" started-at="2019-12-28T23:41:39Z" finished-at="2019-12-28T23:42:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="NavigationBarCheck()[pri:0, instance:TestFinalFramework.ValidateNavigationBar@233795b6]" name="NavigationBarCheck" duration-ms="627" started-at="2019-12-28T23:42:16Z" finished-at="2019-12-28T23:42:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigationBarCheck -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:TestFinalFramework.ValidateNavigationBar@233795b6]" name="teardown" is-config="true" duration-ms="2395" started-at="2019-12-28T23:42:16Z" finished-at="2019-12-28T23:42:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestFinalFramework.ValidateNavigationBar -->
+    </test> <!-- Validating Navigation Bar -->
+    <test name="ValidatingHeaderandTitle" duration-ms="41476" started-at="2019-12-28T18:11:39Z" finished-at="2019-12-28T18:12:20Z">
+      <class name="TestFinalFramework.ValidateTitle">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:TestFinalFramework.ValidateTitle@3b0090a4]" name="initialize" is-config="true" duration-ms="38881" started-at="2019-12-28T23:41:39Z" finished-at="2019-12-28T23:42:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="TitleCheck()[pri:0, instance:TestFinalFramework.ValidateTitle@3b0090a4]" name="TitleCheck" duration-ms="418" started-at="2019-12-28T23:42:18Z" finished-at="2019-12-28T23:42:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TitleCheck -->
+        <test-method status="PASS" signature="validateHeader()[pri:0, instance:TestFinalFramework.ValidateTitle@3b0090a4]" name="validateHeader" duration-ms="68" started-at="2019-12-28T23:42:18Z" finished-at="2019-12-28T23:42:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHeader -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:TestFinalFramework.ValidateTitle@3b0090a4]" name="teardown" is-config="true" duration-ms="2104" started-at="2019-12-28T23:42:18Z" finished-at="2019-12-28T23:42:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestFinalFramework.ValidateTitle -->
+    </test> <!-- ValidatingHeaderandTitle -->
+    <test name="Validating Login Functionality" duration-ms="55893" started-at="2019-12-28T18:11:39Z" finished-at="2019-12-28T18:12:35Z">
+      <class name="TestFinalFramework.HomePage">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:TestFinalFramework.HomePage@34e9fd99]" name="initialize" is-config="true" duration-ms="4865" started-at="2019-12-28T23:41:39Z" finished-at="2019-12-28T23:41:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="homePageNavigation(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestFinalFramework.HomePage@34e9fd99]" name="homePageNavigation" duration-ms="50811" started-at="2019-12-28T23:41:44Z" data-provider="getData" finished-at="2019-12-28T23:42:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[nonrestricteduser@qw.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Non Restricted User]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageNavigation -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:TestFinalFramework.HomePage@34e9fd99]" name="teardown" is-config="true" duration-ms="201" started-at="2019-12-28T23:42:35Z" finished-at="2019-12-28T23:42:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestFinalFramework.HomePage -->
+    </test> <!-- Validating Login Functionality -->
+  </suite> <!-- Suite -->
+</testng-results>

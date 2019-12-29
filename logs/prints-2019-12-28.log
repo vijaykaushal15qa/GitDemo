@@ -1,0 +1,23 @@
+16:45:15.063 [main] INFO  TestFinalFramework.HomePage - Non Restricted User
+16:45:34.964 [main] INFO  TestFinalFramework.ValidateNavigationBar - Navigation Bar Displayed
+16:46:06.019 [TestNG] INFO  TestFinalFramework.ValidateTitle - Driver is Initialized
+16:46:19.829 [TestNG] INFO  TestFinalFramework.ValidateTitle - Navigated to Home Page
+16:46:30.424 [TestNG] INFO  TestFinalFramework.ValidateNavigationBar - Navigation Bar Displayed
+17:02:24.869 [TestNG] INFO  TestFinalFramework.ValidateTitle - Driver is Initialized
+17:02:26.059 [TestNG] INFO  TestFinalFramework.ValidateTitle - Navigated to Home Page
+17:04:10.445 [TestNG] INFO  TestFinalFramework.ValidateTitle - Driver is Initialized
+17:04:23.338 [TestNG] INFO  TestFinalFramework.ValidateTitle - Navigated to Home Page
+17:04:30.554 [TestNG] INFO  TestFinalFramework.ValidateTitle - Title Validation Successful
+17:04:30.836 [TestNG] INFO  TestFinalFramework.ValidateTitle - Header Validation Successful
+17:04:31.416 [TestNG] INFO  TestFinalFramework.ValidateNavigationBar - Navigation Bar Displayed
+17:04:39.852 [TestNG] INFO  TestFinalFramework.HomePage - Non Restricted User
+17:19:12.827 [TestNG] INFO  TestFinalFramework.ValidateTitle - Driver is Initialized
+17:19:31.141 [TestNG] INFO  TestFinalFramework.ValidateTitle - Navigated to Home Page
+17:19:37.672 [TestNG] INFO  TestFinalFramework.ValidateNavigationBar - Navigation Bar Displayed
+17:19:37.735 [TestNG] INFO  TestFinalFramework.ValidateTitle - Title Validation Successful
+17:19:37.941 [TestNG] INFO  TestFinalFramework.ValidateTitle - Header Validation Successful
+17:19:44.706 [TestNG] INFO  TestFinalFramework.HomePage - Non Restricted User
+23:39:58.231 [TestNG] INFO  TestFinalFramework.ValidateTitle - Driver is Initialized
+23:40:22.456 [TestNG] INFO  TestFinalFramework.ValidateTitle - Navigated to Home Page
+23:40:23.151 [TestNG] INFO  TestFinalFramework.ValidateTitle - Title Validation Successful
+23:40:23.428 [TestNG] INFO  TestFinalFramework.ValidateTitle - Header Validation Successful
