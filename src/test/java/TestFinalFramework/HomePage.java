@@ -49,10 +49,12 @@ public void homePageNavigation(String Username, String Password, String text) th
 	 lp1.clicLogin().click();
 	 System.out.println("GIT DEMO1");
 	 System.out.println("GIT DEMO2");
-     System.out.println("GIT DEMO3");
+         System.out.println("GIT DEMO3");
 	 System.out.println("GIT DEMO4");
 	 System.out.println("Branching Demo1");
-     System.out.println("Branching Demo2");
+         System.out.println("Branching Demo2");
+         System.out.println("Branching Demo3");
+         System.out.println("Branching Demo4");
 	 
 }
 
