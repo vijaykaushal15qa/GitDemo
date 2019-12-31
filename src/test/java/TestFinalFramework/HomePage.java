@@ -53,9 +53,7 @@ public void homePageNavigation(String Username, String Password, String text) th
 	 System.out.println("GIT DEMO4");
 	 System.out.println("Branching Demo1");
          System.out.println("Branching Demo2");
-         System.out.println("Branching Demo3");
-         System.out.println("Branching Demo4");
-	 
+       
 }
 
 @DataProvider
